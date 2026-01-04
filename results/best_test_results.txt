@@ -1,0 +1,7 @@
+Model: best
+Precision: 89.97%
+Recall: 91.93%
+F1: 90.94%
+mAP50: 96.82%
+mAP50-95: 60.84%
+FPS: 7.39
